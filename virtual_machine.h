@@ -1,6 +1,7 @@
 #pragma once
 #include <iostream>
 #include <string>
+#include <cstring>
 #include <stdarg.h>
 #define SM_STACK_SIZE 32
 #define RM_REGCNT	  8
